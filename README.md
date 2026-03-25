@@ -11,7 +11,7 @@
 
 ## 🛠️ Skills I am Learning
 💻 Programming (Python, C, C++)   
-📊 Data Structures and Algorithms 
+📊 Data Structures and Algorithms   
 🤖 Artificial Intelligence & Machine Learning   
 🌐 Web Development Basics 
 
