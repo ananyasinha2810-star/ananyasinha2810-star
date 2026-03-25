@@ -1,16 +1,25 @@
-## Hi there 👋
 
-<!--
-**ananyasinha2810-star/ananyasinha2810-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ # Hi, I am Ananya Sinha 👩‍💻                     
 
-Here are some ideas to get you started:
+🎓 Branch: B.Tech Computer Science (AIML)
+🏫 University: VIT Bhopal University
+📅 Year: 2025 – 2029
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Learning Goal-
+I hope to learn programming, Artificial Intelligence,and Machine Learning to build innovative real-worldprojects and improve my problem-solving skills.
+
+### Skills I am Learning -
+- Programming (Python, C, C++)
+- Data Structures and Algorithms
+- Artificial Intelligence & Machine Learning
+- Web Development Basics
+
+#### Interests - 
+⭐ Passionate about technology
+🚀 Beginner in coding and development
+📚 Always ready to learn new skills
+  
+
+
+
+
